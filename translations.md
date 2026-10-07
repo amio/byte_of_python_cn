@@ -8,11 +8,11 @@ If you plan to start a new translation, please read the [Translation how-to](./t
 
 ## Arabic
 
-Below is the link for the Arabic version. Thanks to Ashraf Ali Khalaf for translating the book, you can read the whole book online at <http://www.khaledhosny.org/byte-of-python/index.html> or you can download it from [sourceforge.net](http://downloads.sourceforge.net/omlx/byteofpython_arabic.pdf?use_mirror=osdn) for more info see <http://itwadi.com/byteofpython_arabi>.
+Below is the link for the Arabic version. Thanks to Ashraf Ali Khalaf for translating the book, you can download it from [sourceforge.net](http://downloads.sourceforge.net/omlx/byteofpython_arabic.pdf?use_mirror=osdn) and find more information at <http://itwadi.com/byteofpython_arabi>.
 
 ## Azerbaijani
 
-Jahangir Shabiyev (c.shabiev@gmail.com) has volunteered to translate the book to Azerbaijani. The translation is in progress at https://www.gitbook.com/book/jahangir-sh/piton-sancmasi
+Jahangir Shabiyev (c.shabiev@gmail.com) has volunteered to translate the book to Azerbaijani. 
 
 
 ## Brazilian Portuguese
@@ -37,19 +37,13 @@ Moises Gomez (moisesgomezgiron@gmail.com) has volunteered to translate the book 
 >
 > I my country there are two official languages. I selected the Catalan language assuming that others will translate it to the more widespread Spanish.
 
-## Chinese
+## Simplified Chinese
 
-In 2017 which is after 11 years, Mo Lun (i@molun.net) re-translated the book from the beginning based on Version 4.0. And the translation is storaged in GitHub and Gitbook. He is keeping follow this translated edition and ready to fix it if there is any wrong or mistake in the translated BoP.
+Jeffrey He (jeffreyheping) has completed a Simplified Chinese translation of the book.
 
-The 2017 translation edition is available in <https://bop.molun.net>.
+Read online at https://jeffreyheping.github.io/byte-of-python/
 
-Mo Lun Says:
-
-> I am a common journalism student from CYU, Beijing. And actually, I am an absolute newbie in Python programming when I start to translate this book. Initially, it was just a whim, but when I done this work, I realized that a decision triggered by interest had prompted me to go so far.
->
-> With the help of my predecessors’ translations and the vast amount of information provided by the developed Internet, and with the help of my friends, I prudently presented this translation edition. I just hope my translation work will help other newcomers in learning Python.
->
-> At the same time, I am always waiting for my translation of the comments and suggestions, and ready to change or improve this superficial work.
+Source repository: https://github.com/jeffreyheping/byte-of-python
 
 ### Earlier Chinese translation
 
@@ -91,6 +85,10 @@ It can be found at https://rgilliotte.gitbook.io/byte-of-python/
 
 ## German
 
+### Python 3
+[Horst JENS](https://spielend-programmieren.at) (horst.jens@spielend-programmieren.at) finished 2026 a translation into German language: <https://spielend-programmieren.at/byte_of_python_deutsch/index.html> 
+
+### Python 2 (outdated)
 Lutz Horn (lutz.horn@gmx.de), Bernd Hengelein (bernd.hengelein@gmail.com) and Christoph Zwerschke (cito@online.de) have volunteered to translate the book to German.
 
 Translation can be found at http://cito.github.io/byte_of_python/
@@ -107,7 +105,7 @@ Bernd Hengelein says:
 
 ## Greek
 
-The Greek Ubuntu Community [translated the book in Greek](http://wiki.ubuntu-gr.org/byte-of-python-el), for use in our on-line asynchronous Python lessons that take place in our forums. Contact [@savvasradevic](https://twitter.com/savvasradevic) for more information.
+The Greek Ubuntu Community translated the book in Greek, for use in our on-line asynchronous Python lessons that take place in our forums. Contact [@savvasradevic](https://twitter.com/savvasradevic) for more information.
 
 ## Indonesian
 
@@ -120,8 +118,6 @@ Also, Bagus Aji Santoso (baguzzzaji@gmail.com) has volunteered.
 ## Italian (first)
 
 Enrico Morelli (mr.mlucci@gmail.com) and Massimo Lucci (morelli@cerm.unifi.it) have volunteered to translate the book to Italian.
-
-The Italian translation is present at <http://www.gentoo.it/Programmazione/byteofpython>.
 
 > _Massimo Lucci and Enrico Morelli_ - we are working at the University of Florence (Italy) - Chemistry Department. I (Massimo) as service engineer and system administrator for Nuclear Magnetic Resonance Spectrometers; Enrico as service engineer and system administrator for our CED and parallel / clustered systems. We are programming on python since about seven years, we had experience working with Linux platforms since ten years. In Italy we are responsible and administrator for www.gentoo.it web site for Gentoo/Linux distrubution and www.nmr.it (now under construction) for Nuclear Magnetic Resonance applications and Congress Organization and Managements.That's all! We are impressed by the smart language used on your Book and we think this is essential for approaching the Python to new users (we are thinking about hundred of students and researcher working on our labs).
 
@@ -143,9 +139,13 @@ Epsimatt has started a new Korean translation:
 - Read online at https://epsimatt.gitbook.io/byte-of-python/
 - Follow progress at https://github.com/epsimatt/byte-of-python/issues/16
 
-### Older
+### Jeongbin Park (2022)
 
-Jeongbin Park (pjb7687@gmail.com) has translated the book to Korean - <https://github.com/pjb7687/byte_of_python>
+Jeongbin Park updated his Korean translation for Python 3 in November 2022.
+
+- Source repository: https://github.com/chaek-union/a_byte_of_python-korean_translation
+
+In his introduction to the earlier translation, Jeongbin wrote:
 
 > I am Jeongbin Park, currently working as a Biophysics & Bioinformatics researcher in Korea.
 >
@@ -171,7 +171,7 @@ Eirik Vågeskar is a high school student at [Sandvika videregående skole](http:
 
 ## Polish
 
-Dominik Kozaczko (dominik@kozaczko.info) has volunteered to translate the book to Polish. Translation is in progress and it's main page is available here: [Ukąś Pythona](http://python.edu.pl/byteofpython/).
+Dominik Kozaczko (dominik@kozaczko.info) has volunteered to translate the book to Polish. 
 
 _Update_ : The translation is complete and ready as of Oct 2, 2009. Thanks to Dominik, his two students and their friend for their time and effort!
 
@@ -193,6 +193,8 @@ Vladimir Smolyar (v_2e@ukr.net) has completed a Russian translation at <http://w
 
 ## Ukranian
 
+Daria JENS (jensdarya@gmail.com) has completed a translation into Ukrainian language: <https://spielend-programmieren.at/byte_of_python_ukraine/>
+
 Averkiev Andrey (averkiyev@ukr.net) has volunteered to translate the book to Russian, and perhaps Ukranian (time permitting).
 
 ## Serbian
@@ -205,7 +207,7 @@ More details at <http://forum.ubuntu-rs.org/Thread-zagrljaj-pitona>.
 
 ## Slovak
 
-Albertio Ward (albertioward@gmail.com) has translated the book to Slovak at <http://www.fatcow.com/edu/python-swaroopch-sl/> :
+Albertio Ward (albertioward@gmail.com) has translated the book to Slovak
 
 > We are a non-profit organization called "Translation for education". We represent a group of people, mainly students and professors, of the Slavonic University. Here are students from different departments: linguistics, chemistry, biology, etc. We try to find interesting publications on the Internet that can be relevant for us and our university colleagues. Sometimes we find articles by ourselves; other times our professors help us choose the material for translation. After obtaining permission from authors we translate articles and post them in our blog which is available and accessible to our colleagues and friends. These translated publications often help students in their daily study routine.
 
@@ -225,6 +227,13 @@ Cristian Bermudez Serna says:
 
 Mikael Jacobsson (leochingkwake@gmail.com) has volunteered to translate the book to Swedish.
 
+## Tamil
+
+TamilNeram team has completed Tamil translation of this book. The e-book version `மலைப்பாம்புக்கடி`(*Malaippambukkadi*) is available at [https://TamilNeram.github.io](https://TamilNeram.github.io) homepage as well as at [https://TACE16.github.io/PyBy](https://TACE16.github.io/PyBy). To contact the TamilNeram team, please send an email to TamilNeram247@gmail.com.
+
 ## Turkish
 
 Türker SEZER (tsezer@btturk.net) and Bugra Cakir (bugracakir@gmail.com) have volunteered to translate the book to Turkish. "Where is Turkish version? Bitse de okusak."
+
+## Persian 
+Najmeh Ghaderi (najmeh.gh.7.2008@gmail.com) has completed a full Persian translation of this book, available at (https://najmeh-ghaderi.github.io/Persian-translation-of-a-byte-of-Python/).

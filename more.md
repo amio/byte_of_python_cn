@@ -155,18 +155,17 @@ Output:
 
 See:
 
-- [Video : Python Decorators Made Easy](https://youtu.be/MYAEv3JoenI) 
-- http://www.ibm.com/developerworks/linux/library/l-cpdecor.html
+- [Video : Python Decorators Made Easy](https://youtu.be/MYAEv3JoenI)
 - http://toumorokoshi.github.io/dry-principles-through-python-decorators.html
 
 ## Differences between Python 2 and Python 3 {#two-vs-three}
 
-See:
+This book uses Python 3. The following resources are historical references for understanding legacy Python 2 code and migration to Python 3:
 
-- ["Six" library](http://pythonhosted.org/six/)
+- ["Six" library](https://six.readthedocs.io/)
 - [Porting to Python 3 Redux by Armin](http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-redux/)
 - [Python 3 experience by PyDanny](http://pydanny.com/experiences-with-django-python3.html)
-- [Official Django Guide to Porting to Python 3](https://docs.djangoproject.com/en/dev/topics/python3/)
+- [Official Django Guide to Porting to Python 3 (historical Django 1.11 documentation)](https://docs.djangoproject.com/en/1.11/topics/python3/)
 - [Discussion on What are the advantages to python 3.x?](http://www.reddit.com/r/Python/comments/22ovb3/what_are_the_advantages_to_python_3x/)
 
 ## Summary
